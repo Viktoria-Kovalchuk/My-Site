@@ -54,13 +54,17 @@ a:hover {
   padding-top: 100px;
 }
 
-.middle-container 
+.middle-container {
+  margin: auto;
+}
 
 .bottom-container {
   background-color: #66BFBF;
-  padding: 50px 0 20px;
-  margin-top: 80px;
+  padding: 50px  20px;
+  margin-top: 80px; 
+  
 }
+
 
 .English {
   text-decoration: underline;
@@ -142,7 +146,7 @@ text-align: center;
 }
 
 .author {
-  color: #EAF6F6;
+  color: #86e5e5;
   margin-top: 25px;
   font-style: 'Montserrat', sans-serif;
   font-size: 0.75rem;
